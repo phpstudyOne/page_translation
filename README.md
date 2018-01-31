@@ -17,3 +17,21 @@
 ```
 (form 参数从第一个 api 中获取)
 (`https://fanyi.baidu.com/v2transapi` 需要 token)
+
+
+```html
+<html><head><style>
+.tooltipBox{
+  width: 800px;
+  height: 200px;
+  background-color: rgba(0,0,0,0.8);
+}
+</style>
+
+</head>
+ <body>
+  <div class="tooltipBox">asdfasdf
+  </div>
+ </body>
+</html>
+```
